@@ -6,6 +6,12 @@
       "@utils/*": [
         "./src/utils/*"
       ],
+      "@components/*": [
+        "./src/components/*"
+      ],
+      "@layouts/*": [
+        "./src/layouts/*"
+      ],
     }
   }
 }
